@@ -1,6 +1,6 @@
-# maxMSP_externals
+# abe library (Alberto Barberis Externals) 
 
-**FREE C externals for max/MSP developed by [Alberto Barberis](http://www.albertobarberis.it/)**
+**A FREE max/MSP Externals library for Mac OSX developed by [Alberto Barberis](http://www.albertobarberis.it/)**
 
 In this section you can find some of my C externals developed for max/MSP using the max-sdk-8.0.3.
 
