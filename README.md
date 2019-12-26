@@ -9,7 +9,7 @@ In this section you can find some of my C externals developed for max/MSP using 
 
 - [Install](#install)
 - [System Requirements](#system-requirements)
-- [abe_library](#abe-library)
+- [abe library](#abe-library)
 	- [srcounter](#srcounter)
 - [Licenses](#licenses)
 
@@ -34,7 +34,8 @@ Intel® Core™2 Duo processor (Intel® Core™ i5 or higher recommended)
 4 GB RAM (8 GB or more recommended)
 ```
 
-## abe library (list of externals for max/MSP)
+## abe library
+## (list of externals for max/MSP)
 
 ### srcounter
 
