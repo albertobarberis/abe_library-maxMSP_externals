@@ -8,10 +8,8 @@ In this section you can find some of my C externals developed for max/MSP using 
 
 - [Install](#install)
 - [System Requirements](#system-requirements)
-  
 - [FREE Externals](#install)
 	- [srmetro](#srmetro)
-
 - [Licenses](#licenses)
 
 ## Install
