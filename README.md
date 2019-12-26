@@ -9,8 +9,8 @@ In this section you can find some of my C externals developed for max/MSP using 
 
 - [Install](#install)
 - [System Requirements](#system-requirements)
-- [abe_library (list of externals for max/MSP)](#abe-library)
-	- [abe.srcounter](#abe.srcounter)
+- [abe_library](#abe-library)
+	- [srcounter](#srcounter)
 - [Licenses](#licenses)
 
 ## Install
@@ -36,7 +36,7 @@ Intel® Core™2 Duo processor (Intel® Core™ i5 or higher recommended)
 
 ## abe library (list of externals for max/MSP)
 
-### abe.srcounter
+### srcounter
 
 srcounter allows you to count at the speed of the sample rate. Set the sample rate using the right inlet. 
 Start the counter using a message "1" or stop it using "0" (left inlet). 
