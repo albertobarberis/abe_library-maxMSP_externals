@@ -1,4 +1,4 @@
-# abe_library (Alberto Barberis Externals) 
+# abe_library (Alberto Barberis max/MSP externals) 
 
 **A FREE max/MSP externals library for Mac OSX 
 developed by [Alberto Barberis](http://www.albertobarberis.it/)**
