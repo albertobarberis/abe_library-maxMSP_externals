@@ -1,6 +1,7 @@
 # abe_library (Alberto Barberis Externals) 
 
-**A FREE max/MSP Externals library for Mac OSX developed by [Alberto Barberis](http://www.albertobarberis.it/)**
+**A FREE max/MSP externals library for Mac OSX 
+developed by [Alberto Barberis](http://www.albertobarberis.it/)**
 
 In this section you can find some of my C externals developed for max/MSP using the max-sdk-8.0.3.
 
@@ -8,7 +9,7 @@ In this section you can find some of my C externals developed for max/MSP using 
 
 - [Install](#install)
 - [System Requirements](#system-requirements)
-- [FREE Externals](#install)
+- [abe_library (list of externals for max/MSP)](#abe_library (list of externals for max/MSP))
 	- [abe.srcounter](#srcounter)
 - [Licenses](#licenses)
 
@@ -33,7 +34,7 @@ Intel® Core™2 Duo processor (Intel® Core™ i5 or higher recommended)
 4 GB RAM (8 GB or more recommended)
 ```
 
-## FREE externals
+## abe_library (list of externals for max/MSP)
 
 ### abe.srcounter.mxo
 
@@ -48,7 +49,7 @@ Start the counter using a message "1" or stop it using "0" (left inlet).
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-maxMSP_externals by [Alberto Barberis](http://www.albertobarberis.it/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+abe_library by [Alberto Barberis](http://www.albertobarberis.it/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 Based on a work at https://github.com/albertobarberis/maxMSP_externals/.
 
 ![Image description](cc_small.png)
