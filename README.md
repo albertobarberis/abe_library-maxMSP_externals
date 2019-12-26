@@ -1,4 +1,4 @@
-# abe library (Alberto Barberis Externals) 
+# abe_library (Alberto Barberis Externals) 
 
 **A FREE max/MSP Externals library for Mac OSX developed by [Alberto Barberis](http://www.albertobarberis.it/)**
 
@@ -9,7 +9,7 @@ In this section you can find some of my C externals developed for max/MSP using 
 - [Install](#install)
 - [System Requirements](#system-requirements)
 - [FREE Externals](#install)
-	- [srcounter](#srcounter)
+	- [abe.srcounter](#srcounter)
 - [Licenses](#licenses)
 
 ## Install
@@ -35,7 +35,7 @@ Intel® Core™2 Duo processor (Intel® Core™ i5 or higher recommended)
 
 ## FREE externals
 
-### srcounter.mxo
+### abe.srcounter.mxo
 
 srcounter allows you to count at the speed of the sample rate. Set the sample rate using the right inlet. 
 Start the counter using a message "1" or stop it using "0" (left inlet). 
