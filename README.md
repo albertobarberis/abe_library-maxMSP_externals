@@ -9,8 +9,8 @@ In this section you can find some of my C externals developed for max/MSP using 
 
 - [Install](#install)
 - [System Requirements](#system-requirements)
-- [abe_library (list of externals for max/MSP)](#abe_library (list of externals for max/MSP))
-	- [abe.srcounter](#srcounter)
+- [abe_library (list of externals for max/MSP)](#abe-library)
+	- [abe.srcounter](#abe.srcounter)
 - [Licenses](#licenses)
 
 ## Install
@@ -34,9 +34,9 @@ Intel® Core™2 Duo processor (Intel® Core™ i5 or higher recommended)
 4 GB RAM (8 GB or more recommended)
 ```
 
-## abe_library (list of externals for max/MSP)
+## abe library (list of externals for max/MSP)
 
-### abe.srcounter.mxo
+### abe.srcounter
 
 srcounter allows you to count at the speed of the sample rate. Set the sample rate using the right inlet. 
 Start the counter using a message "1" or stop it using "0" (left inlet). 
