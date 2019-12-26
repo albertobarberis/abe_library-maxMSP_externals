@@ -35,7 +35,7 @@ Intel® Core™2 Duo processor (Intel® Core™ i5 or higher recommended)
 
 ## FREE externals
 
-### srcounter
+### srcounter.mxo
 
 srcounter allows you to count at the speed of the sample rate. Set the sample rate using the right inlet. 
 Start the counter using a message "1" or stop it using "0" (left inlet). 
