@@ -35,7 +35,6 @@ Intel® Core™2 Duo processor (Intel® Core™ i5 or higher recommended)
 ```
 
 ## abe library
-## (list of externals for max/MSP)
 
 ### srcounter
 
